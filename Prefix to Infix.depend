@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1660029523 source:c:\users\assassin\desktop\c&c++_hub\prefix to infix\postfix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1660029767 source:c:\users\assassin\desktop\c&c++_hub\postfix_prefix to infix converter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
